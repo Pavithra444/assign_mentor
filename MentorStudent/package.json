@@ -1,0 +1,17 @@
+{
+  "name": "mentorstudent",
+  "version": "1.0.0",
+  "description": "guvitask",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pavithra",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2"
+  }
+}
